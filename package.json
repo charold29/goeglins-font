@@ -1,0 +1,14 @@
+{
+  "name": "goeglin-font",
+  "version": "1.0.0",
+  "description": "Arista2.0 Font for a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font"
+  ],
+  "author": "CharolD <harolrop14@gmail.com>",
+  "license": "ISC"
+}
